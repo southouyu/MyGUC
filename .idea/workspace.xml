@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aec0abee-bd5c-40ab-b2e6-c5ee8b3ac37d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="ProjectId" id="1XxkRAUDP4lZZdM3TMu35SP7LrN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/ouy/JUC" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29749632" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProject\JUC\src\main\java\com\ouy\JUC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UnableCreateNativeThread">
+    <configuration name="DirectBufferMemoryErrorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.DirectBufferMemoryErrorDemo" />
+      <module name="JUC" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:MaxDirectMemorySize=5m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouy.JUC.OOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCOverHeadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.GCOverHeadDemo" />
+      <module name="JUC" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:MaxDirectMemorySize=5m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouy.JUC.OOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaHeapSpaceDemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.JavaHeapSpaceDemp" />
+      <module name="JUC" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+UseG1GC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouy.JUC.OOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetaSpaceOOMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.MetaSpaceOOMDemo" />
+      <module name="JUC" />
+      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=8m -XX:MaxMetaspaceSize=10m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouy.JUC.OOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnableCreateNativeThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.UnableCreateNativeThread" />
+      <module name="JUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouy.JUC.OOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaHeapSpaceDemp" />
+      <item itemvalue="Application.GCOverHeadDemo" />
+      <item itemvalue="Application.DirectBufferMemoryErrorDemo" />
+      <item itemvalue="Application.MetaSpaceOOMDemo" />
+      <item itemvalue="Application.UnableCreateNativeThread" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UnableCreateNativeThread" />
+        <item itemvalue="Application.JavaHeapSpaceDemp" />
+        <item itemvalue="Application.MetaSpaceOOMDemo" />
+        <item itemvalue="Application.DirectBufferMemoryErrorDemo" />
+        <item itemvalue="Application.GCOverHeadDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aec0abee-bd5c-40ab-b2e6-c5ee8b3ac37d" name="Default Changelist" comment="" />
+      <created>1581995123712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581995123712</updated>
+      <workItem from="1581995131283" duration="8725000" />
+      <workItem from="1582100530326" duration="17161000" />
+      <workItem from="1582266792321" duration="643000" />
+      <workItem from="1582613861293" duration="13234000" />
+      <workItem from="1582789954730" duration="2864000" />
+      <workItem from="1583118014252" duration="1613000" />
+      <workItem from="1583288497350" duration="1757000" />
+      <workItem from="1583736135724" duration="2036000" />
+      <workItem from="1583892703272" duration="2276000" />
+      <workItem from="1584148862717" duration="435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="59" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583736211731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1428" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684176528" />
+    <state x="59" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583736211731" />
+    <state x="1815" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582619962682">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1815" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582619962682" />
+    <state x="1812" y="46" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582618267744">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1812" y="46" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582618267744" />
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom" timestamp="1583738178817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1397" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180199" />
+    <state width="1323" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
+    <state width="1323" height="166" key="GridCell.Tab.0.center" timestamp="1583738178817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1397" height="215" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180198" />
+    <state width="1323" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
+    <state width="1323" height="166" key="GridCell.Tab.0.left" timestamp="1583738178817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1397" height="215" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180198" />
+    <state width="1323" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
+    <state width="1323" height="166" key="GridCell.Tab.0.right" timestamp="1583738178817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1397" height="215" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180198" />
+    <state width="1323" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
+    <state width="1323" height="166" key="GridCell.Tab.1.bottom" timestamp="1583738178818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583738178818" />
+    <state width="1323" height="166" key="GridCell.Tab.1.center" timestamp="1583738178818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583738178818" />
+    <state width="1323" height="166" key="GridCell.Tab.1.left" timestamp="1583738178817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
+    <state width="1323" height="166" key="GridCell.Tab.1.right" timestamp="1583738178818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="166" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583738178818" />
+    <state x="1589" y="15" key="SettingsEditor" timestamp="1581997897808">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1589" y="15" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1581997897808" />
+    <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1582191926427">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582191926427" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JUC$JavaHeapSpaceDemp.ic" NAME="JavaHeapSpaceDemp Coverage Results" MODIFIED="1582622164505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ouy.JUC.OOM.*</FILTER>
+    </SUITE>
+  </component>
+</project>
