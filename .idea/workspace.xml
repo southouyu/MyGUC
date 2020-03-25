@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aec0abee-bd5c-40ab-b2e6-c5ee8b3ac37d" name="Default Changelist" comment="" />
+    <list default="true" id="aec0abee-bd5c-40ab-b2e6-c5ee8b3ac37d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MyJUC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/AOP/Advice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/AOP/BeforAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/AOP/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/AOP/MethodInvocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/AOP/SimpleAOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/AOP/SimpleAOPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/IOC/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/IOC/SimpleIOC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/IOC/SimpleIocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/IOC/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ouy/spring/IOC/ioc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JUC.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +31,24 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HierarchyBrowserManager">
     <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1XxkRAUDP4lZZdM3TMu35SP7LrN" />
   <component name="ProjectViewState">
@@ -28,48 +58,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/ouy/JUC" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.29749632" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\MyProject\JUC\src\main\java\com\ouy\JUC" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UnableCreateNativeThread">
-    <configuration name="DirectBufferMemoryErrorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.DirectBufferMemoryErrorDemo" />
-      <module name="JUC" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:MaxDirectMemorySize=5m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ouy.JUC.OOM.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GCOverHeadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.GCOverHeadDemo" />
-      <module name="JUC" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:MaxDirectMemorySize=5m" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ouy.JUC.OOM.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SimpleAOPTest">
     <configuration name="JavaHeapSpaceDemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.JavaHeapSpaceDemp" />
       <module name="JUC" />
@@ -98,6 +101,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleAOPTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouy.spring.AOP.SimpleAOPTest" />
+      <module name="MyJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouy.spring.AOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleIocTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ouy.spring.IOC.SimpleIocTest" />
+      <module name="MyJUC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ouy.spring.IOC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnableCreateNativeThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ouy.JUC.OOM.UnableCreateNativeThread" />
       <module name="JUC" />
@@ -113,18 +142,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.JavaHeapSpaceDemp" />
-      <item itemvalue="Application.GCOverHeadDemo" />
-      <item itemvalue="Application.DirectBufferMemoryErrorDemo" />
       <item itemvalue="Application.MetaSpaceOOMDemo" />
       <item itemvalue="Application.UnableCreateNativeThread" />
+      <item itemvalue="Application.SimpleIocTest" />
+      <item itemvalue="Application.SimpleAOPTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleAOPTest" />
+        <item itemvalue="Application.SimpleIocTest" />
         <item itemvalue="Application.UnableCreateNativeThread" />
         <item itemvalue="Application.JavaHeapSpaceDemp" />
         <item itemvalue="Application.MetaSpaceOOMDemo" />
-        <item itemvalue="Application.DirectBufferMemoryErrorDemo" />
-        <item itemvalue="Application.GCOverHeadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +189,7 @@
       <workItem from="1583736135724" duration="2036000" />
       <workItem from="1583892703272" duration="2276000" />
       <workItem from="1584148862717" duration="435000" />
+      <workItem from="1585139614910" duration="6733000" />
     </task>
     <servers />
   </component>
@@ -172,6 +202,10 @@
     </state>
     <state x="1428" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684176528" />
     <state x="59" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583736211731" />
+    <state x="1433" y="266" key="#com.intellij.ide.util.MemberChooser" timestamp="1585145939868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1433" y="266" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585145939868" />
     <state x="1815" y="219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582619962682">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
@@ -180,46 +214,55 @@
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
     <state x="1812" y="46" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582618267744" />
-    <state width="1323" height="166" key="GridCell.Tab.0.bottom" timestamp="1583738178817">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1585146865484">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1397" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180199" />
     <state width="1323" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
-    <state width="1323" height="166" key="GridCell.Tab.0.center" timestamp="1583738178817">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585146865484" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1585146865484">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1397" height="215" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180198" />
     <state width="1323" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
-    <state width="1323" height="166" key="GridCell.Tab.0.left" timestamp="1583738178817">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585146865484" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1585146865484">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1397" height="215" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180198" />
     <state width="1323" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
-    <state width="1323" height="166" key="GridCell.Tab.0.right" timestamp="1583738178817">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585146865484" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1585146865484">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1397" height="215" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1582684180198" />
     <state width="1323" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
-    <state width="1323" height="166" key="GridCell.Tab.1.bottom" timestamp="1583738178818">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585146865484" />
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom" timestamp="1585144399234">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="166" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583738178818" />
-    <state width="1323" height="166" key="GridCell.Tab.1.center" timestamp="1583738178818">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1860" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585144399234" />
+    <state width="1860" height="344" key="GridCell.Tab.1.center" timestamp="1585144399234">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="166" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583738178818" />
-    <state width="1323" height="166" key="GridCell.Tab.1.left" timestamp="1583738178817">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1860" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585144399234" />
+    <state width="1860" height="344" key="GridCell.Tab.1.left" timestamp="1585144399234">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="166" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583738178817" />
-    <state width="1323" height="166" key="GridCell.Tab.1.right" timestamp="1583738178818">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1860" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585144399234" />
+    <state width="1860" height="344" key="GridCell.Tab.1.right" timestamp="1585144399234">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="166" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583738178818" />
-    <state x="1589" y="15" key="SettingsEditor" timestamp="1581997897808">
-      <screen x="1366" y="0" width="1440" height="860" />
+    <state width="1860" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585144399234" />
+    <state x="297" y="18" key="SettingsEditor" timestamp="1585140061810">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1589" y="15" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1581997897808" />
+    <state x="297" y="18" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585140061810" />
     <state x="1749" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1582191926427">
       <screen x="1366" y="0" width="1440" height="860" />
     </state>
